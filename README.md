@@ -1,4 +1,4 @@
-# cs50-finance
+# cs50finance
 
 Lesson 8 from Harvard's CS50 course.
 
